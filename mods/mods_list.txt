@@ -1,0 +1,2 @@
+Input com.fenske.ultraSmash.Processors.Input 1
+SquareMan com.fenske.ultraSmash.characters.CharacterController 1
